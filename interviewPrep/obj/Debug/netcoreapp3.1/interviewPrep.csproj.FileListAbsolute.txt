@@ -1,0 +1,13 @@
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\bin\Debug\netcoreapp3.1\interviewPrep.exe
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\bin\Debug\netcoreapp3.1\interviewPrep.deps.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\bin\Debug\netcoreapp3.1\interviewPrep.runtimeconfig.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\bin\Debug\netcoreapp3.1\interviewPrep.runtimeconfig.dev.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\bin\Debug\netcoreapp3.1\interviewPrep.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\bin\Debug\netcoreapp3.1\interviewPrep.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.csprojAssemblyReference.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.AssemblyInfoInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.AssemblyInfo.cs
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.csproj.CoreCompileInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\interviewPrep\obj\Debug\netcoreapp3.1\interviewPrep.genruntimeconfig.cache

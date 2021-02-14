@@ -1,0 +1,13 @@
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\bin\Debug\netcoreapp3.1\DLLReversal.exe
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\bin\Debug\netcoreapp3.1\DLLReversal.deps.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\bin\Debug\netcoreapp3.1\DLLReversal.runtimeconfig.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\bin\Debug\netcoreapp3.1\DLLReversal.runtimeconfig.dev.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\bin\Debug\netcoreapp3.1\DLLReversal.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\bin\Debug\netcoreapp3.1\DLLReversal.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.csprojAssemblyReference.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.AssemblyInfoInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.AssemblyInfo.cs
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.csproj.CoreCompileInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\DLLReversal\obj\Debug\netcoreapp3.1\DLLReversal.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.csprojAssemblyReference.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.AssemblyInfoInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.AssemblyInfo.cs
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.csproj.CoreCompileInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\bin\Debug\netcoreapp3.1\Matrix2DSearch.exe
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\bin\Debug\netcoreapp3.1\Matrix2DSearch.deps.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\bin\Debug\netcoreapp3.1\Matrix2DSearch.runtimeconfig.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\bin\Debug\netcoreapp3.1\Matrix2DSearch.runtimeconfig.dev.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\bin\Debug\netcoreapp3.1\Matrix2DSearch.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\bin\Debug\netcoreapp3.1\Matrix2DSearch.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\Matrix2DSearch\obj\Debug\netcoreapp3.1\Matrix2DSearch.genruntimeconfig.cache

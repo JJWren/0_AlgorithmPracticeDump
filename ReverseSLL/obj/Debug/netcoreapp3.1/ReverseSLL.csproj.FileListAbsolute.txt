@@ -1,0 +1,13 @@
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\bin\Debug\netcoreapp3.1\ReverseSLL.exe
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\bin\Debug\netcoreapp3.1\ReverseSLL.deps.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\bin\Debug\netcoreapp3.1\ReverseSLL.runtimeconfig.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\bin\Debug\netcoreapp3.1\ReverseSLL.runtimeconfig.dev.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\bin\Debug\netcoreapp3.1\ReverseSLL.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\bin\Debug\netcoreapp3.1\ReverseSLL.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.csprojAssemblyReference.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.AssemblyInfoInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.AssemblyInfo.cs
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.csproj.CoreCompileInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\ReverseSLL\obj\Debug\netcoreapp3.1\ReverseSLL.genruntimeconfig.cache

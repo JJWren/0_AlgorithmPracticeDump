@@ -1,0 +1,13 @@
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\bin\Debug\netcoreapp3.1\RemoveDuplicates.exe
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\bin\Debug\netcoreapp3.1\RemoveDuplicates.deps.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\bin\Debug\netcoreapp3.1\RemoveDuplicates.runtimeconfig.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\bin\Debug\netcoreapp3.1\RemoveDuplicates.runtimeconfig.dev.json
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\bin\Debug\netcoreapp3.1\RemoveDuplicates.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\bin\Debug\netcoreapp3.1\RemoveDuplicates.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.csprojAssemblyReference.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.AssemblyInfoInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.AssemblyInfo.cs
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.dll
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.pdb
+C:\Users\Josh_Wren\Documents\GitHub\CodingDojoAssignments\algorithms\RemoveDuplicates\obj\Debug\netcoreapp3.1\RemoveDuplicates.genruntimeconfig.cache
